@@ -12,7 +12,9 @@ Currently pursuing CompTIA A+ and building toward a SOC Analyst role.
 - CompTIA A+ (in progress — expected [June/2026])
 
 ## 🔬 Projects
-- [Active Directory Home Lab](https://github.com/aundres/active-directory-home-lab) 
+- [Active Directory Home Lab](https://github.com/aundres/active-directory-home-lab)
+- [Group Policy Management Home Lab] (https://github.com/aundres/GPO-HomeLab)
+  
 
 ## 📫 Connect
 - LinkedIn: [https://www.linkedin.com/in/aundres-bush-84b30940b/]
