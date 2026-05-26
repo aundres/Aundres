@@ -13,7 +13,7 @@ Currently pursuing CompTIA A+ and building toward a SOC Analyst role.
 
 ## 🔬 Projects
 - [Active Directory Home Lab](https://github.com/aundres/active-directory-home-lab)
-- [Group Policy Management Home Lab] (https://github.com/aundres/GPO-HomeLab)
+- [Group Policy Management Home Lab](https://github.com/aundres/GPO-HomeLab)
   
 
 ## 📫 Connect
